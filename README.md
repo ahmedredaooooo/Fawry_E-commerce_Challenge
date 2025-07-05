@@ -38,9 +38,9 @@ All of these are caught and displayed cleanly in the main method to avoid progra
 ---
 
 ## 🧪 Sample Flow
-<img src="sample test input.png" alt="Sample Flow" width="600"/>
+<img src="sample test input.png" alt="Sample Flow" width="800"/>
 Console Output:
-<img src="sample test output.png" alt="Sample Console Output" width="600"/>
+<img src="sample test output.png" alt="Sample Console Output" width="500"/>
 ---
 
 ## ✅ Tech Highlights
