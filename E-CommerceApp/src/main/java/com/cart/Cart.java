@@ -7,7 +7,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Cart {
-    private List<CartItem> cartItems = new ArrayList<CartItem>();
+    private final List<CartItem> cartItems = new ArrayList<CartItem>();
 
     public void addProduct(Product product, int quantity) {
         if (product.getQuantity() < quantity) throw new IllegalArgumentException("Not enough product quantity available.");
